@@ -1,0 +1,181 @@
+body{
+    border: 0px;
+}
+nav{
+        width: 100%;
+    height: 100px;
+    top: 0;
+    background-image: linear-gradient(45deg, #08D7FF, #F70 );
+    text-align: center;
+    position: sticky;
+}
+
+#seccion.1{
+    width: 200px;
+    height: 200px;
+}
+.seccion-secundario{
+    width: 200px;
+    height: 50px;
+   
+}
+.intemn{
+    background-color: #88F7FF;
+
+}
+#itemn1{
+   background-color: #98d7FF;
+}
+#itemn3{
+    background-color: #98d7FF;
+}
+#itemn5{
+    background-color: #98d7FF;
+}
+#itemBarraLateral{
+    background-color: #98d7FF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+}
+aside{
+width: 350px;
+height: 500px;
+right: 30%;
+background-color: #98d7FF;
+position: absolute;
+
+
+}
+.caja{
+    background-color: #49e;
+height: 100px;
+width: 100px;
+border: 1px solid #000;
+position: relative;
+background-position: center;
+}
+#caja1{
+    background-color: #08D7FF;
+    position: relative;
+
+
+}
+#caja2{
+background-color: green;
+position: relative;
+top: 200px;
+
+
+}
+#caja3{
+background-color: #F70;
+position: relative;
+background-position: left;
+bottom: 20px;
+left: 70px;
+}
+#caja4{
+background-color: #000;
+position: relative;
+top: 100px; 
+}
+
+footer,p{
+    position: relative;
+    bottom: -250px;
+    width: 100%;
+    height: 300px;
+}
+
+#caja01{
+background-color: red;
+position: relative;
+bottom: 600px;
+left: 900px;
+}
+#caja02{
+background-color: rebeccapurple;
+position: relative;
+top: 290px;
+left: 1800px;
+}
+#caja03{
+background-color: chartreuse;
+position: relative;
+top: 1100px;
+left: 900px; 
+}
+#caja04{
+background-color: navy;
+position: relative;
+top: 80px;
+}
+
+#cajaj1{
+    background-color: ;
+    
+    position: relative;
+    left: 890px;
+}
+#cajaj2{
+    background-color: ;
+    position: relative;
+    left: 890px;
+}
+#cajaj3{
+    background-color: ;
+    position: relative;
+    left: 890px;
+}
+#cajaj4{
+    background-color: ;
+    position: relative;
+    left: 890px;
+}
+#padre2{
+    position: relative;
+    top: 150px;
+}
+#rompeCabezaImaginatelo8{
+    position: relative;
+    width: 3710px;
+    height: 300px;
+   
+}
+#piexa1{
+position: relative;
+background-image: ;
+}
+#piexa2{
+position: relative;
+background-image: ;
+right: 68px;
+top: 54px;
+}
+#piexa3{
+position: relative;
+background-image: ;
+bottom: 68px;
+}
+#piexa4{
+position: relative;
+background-image: ;
+bottom: 68px;
+right: 68px;
+}
+#usandoatat{
+position: relative;
+background-image: url(./pieza-de-rompecabeza-1.png);
+background-image: url(./pieza-de-rompecabeza-2.png);
+
+}
+
+
+
+
+
+
+
+
+
